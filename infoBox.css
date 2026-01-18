@@ -1,0 +1,13 @@
+.infoBox{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.Card{
+    border : 2px solid rgb(151, 151, 151);
+    box-shadow: 3px 3px 3px black;
+}
